@@ -3,9 +3,9 @@ import React from 'react'
 
 class YouTubeDebugger extends React.Component {
   constructor() {
-    super()
+    super();
 
-    state = {
+    this.state = {
       errors: [],
       user: null,
       settings: {
