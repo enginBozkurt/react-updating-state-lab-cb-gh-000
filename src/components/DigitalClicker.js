@@ -7,8 +7,8 @@ class DigitalClicker extends React.Component {
     super();
 
     this.state = {
-      timesClicked : 0;
-    }
+      timesClicked : 0
+    };
 
   }
 
