@@ -27,4 +27,3 @@ class DigitalClicker extends React.Component {
   }
 
 }
-
