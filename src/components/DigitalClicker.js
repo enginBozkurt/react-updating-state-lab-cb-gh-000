@@ -18,7 +18,17 @@ class DigitalClicker extends React.Component {
     })
   }
 
-  
+  render() {
+    return (
+      <div>
+        <button onClick={this.handleClick}>{this.state.timesClicked}</button>
+      </div>
+    );
+  }
+
+
+ 
+
 
 
 
